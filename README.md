@@ -1,0 +1,1 @@
+This is a reddit automation script which gets the specified no. of posts from the specified subreddit. 
